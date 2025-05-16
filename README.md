@@ -26,5 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=drubo119 &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@v4
+
