@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Description" width="300" height="auto">
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=100&center=true&vCenter=true&color=000000&size=24&lines=Hi...;I+love+you+Elmi;Miss+you+baby🥺" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=100&center=true&vCenter=true&color=000000&size=24&lines=Hi...;I'm+Shihab;A+Passionate+Web+developer;Feel+free+to+look+around;Reach+out+if+you+need+help="Typing SVG" /></div>
 
 
 
