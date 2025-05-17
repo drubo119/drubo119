@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Description" width="300" height="auto">
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=182533&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Shihab;A+Passonate+Web+developer;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1000&color=D052FF&width=435&lines=Hi...;I'm+Shihab;A+Passionate+Web+developer;Feel+free+to+look+around;Reach+out+if+you+need+help!" alt="Typing SVG" /></div>
 
 
 
